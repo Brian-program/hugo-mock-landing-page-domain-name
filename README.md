@@ -2,7 +2,7 @@
 ### CIS 3500 HW 2
 By Brian Lu
 
-Pages link: https://brian-program.github.io/hugo-mock-landing-page-autodeployed/
+Pages link: https://brian-program.github.io/hugo-mock-landing-page-domain-name/
 
 Pages will now be auto-deployed upon pushing updated code.
 
