@@ -109,7 +109,7 @@ You can refer to the table below for an overview of basic markdown syntax:
 
 ~~Strikethrough~~
 
-[Hyperlink](http://example.com)
+[Hyperlink](https://example.com)
 
 ![Image](placeholder-50-09f-fff.png)
 { .img-fluid }
@@ -131,7 +131,7 @@ You can refer to the table below for an overview of basic markdown syntax:
 
 ~~Strikethrough~~
 
-[Hyperlink](http://example.com)
+[Hyperlink](https://example.com)
 
 ![Image](placeholder-50-09f-fff.png)
 { .img-fluid }
